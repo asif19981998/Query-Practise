@@ -1,0 +1,40 @@
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.deps.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.runtimeconfig.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.runtimeconfig.dev.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\ref\AmarDaktar.DataBaseContext.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.AssemblyInfoInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.AssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.csproj.CoreCompileInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.csproj.CopyComplete
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\ref\AmarDaktar.DataBaseContext.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.genruntimeconfig.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.deps.json
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.runtimeconfig.json
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.runtimeconfig.dev.json
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\ref\AmarDaktar.DataBaseContext.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.AssemblyInfo.cs
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.csproj.CopyComplete
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\ref\AmarDaktar.DataBaseContext.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktar.DataBaseContext\obj\Debug\net5.0\AmarDaktar.DataBaseContext.genruntimeconfig.cache

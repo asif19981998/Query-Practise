@@ -1,0 +1,42 @@
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.deps.json
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\ref\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfoInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfo.cs
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CoreCompileInputs.cache
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CopyComplete
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\ref\AmarDaktarBase.dll
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.pdb
+E:\AmarDaktar\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.deps.json
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\ref\AmarDaktarBase.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktarBase.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Repositories.Abastractions.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Model.Contracts.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\AmarDaktar.Models.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\bin\Debug\net5.0\Base.pdb
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.AssemblyReference.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfoInputs.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.AssemblyInfo.cs
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CoreCompileInputs.cache
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.csproj.CopyComplete
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\ref\AmarDaktarBase.dll
+E:\C Sharp Practise Projects\AmarDaktarApp\AmarDaktarBase\obj\Debug\net5.0\AmarDaktarBase.pdb
